@@ -1,0 +1,23 @@
+{
+  "name": "bo",
+  "description": "agalma",
+  "main": "",
+  "authors": [
+    "q"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "https://github.com/tashajohnson/agalma",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#^0.97.5",
+    "moment": "^2.11.2"
+  }
+}
